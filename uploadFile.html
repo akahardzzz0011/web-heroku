@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+   <head>
+	<title>File Uploading Form</title>
+   </head>
+
+   <body>
+	<h3>File Upload:</h3>
+	Select a file to upload: <br />
+
+	<form action="/uploadfile" enctype="multipart/form-data" method="POST"> 
+		<input type="file" name="myFile" />
+		<input type="submit" value="Upload a file"/>
+	 </form>
+
+   </body>
+</html>

@@ -1,0 +1,130 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "description": "Ziihao 2 Set IIC/ I2C/ TWI LCD Serial Interface Adapter nd LCD Module Display, Blue Blacklight/White Compitable with Character, Arduino",
+            "currency": "$",
+            "price": 8,
+            "priceCents": 99,
+            "previousPrice": "",
+            "image": "ziihao02.png",
+            "image02": "starsFour.png",
+            "amount": 345
+        },
+        {
+            "id": "2",
+            "description": "Ziihao 2PCS Nano V3.0 CH340G Improved Version Atmega328P Development Board 5V 16M Micro Controller Board Module Compatible with Arduino with Mini USB Cable",
+            "currency": "$",
+            "price": 16,
+            "priceCents": 99,
+            "previousPrice": "",
+            "image": "ziihaoNano.png",
+            "image02": "starsFive.png",
+            "amount": 213
+        },
+        {
+            "id": "3",
+            "description": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service (STGX2000400)",
+            "currency": "$",
+            "price": 59,
+            "priceCents": 99,
+            "previousPrice": "$99.99",
+            "image": "seagatePortable.png",
+            "image02": "starsFour.png",
+            "amount": 679
+        },
+        {
+            "id": "4",
+            "description": "SAMSUNG 970 EVO Plus SSD 2TB - M.2 NVMe Interface Internal Solid State Drive with V-NAND Technology (MZ-V7S2T0B/AM)",
+            "currency": "$",
+            "price": 219,
+            "priceCents": 99,
+            "previousPrice": "$499.99",
+            "image": "samsungSSD.png"
+        },
+        {
+            "id": "5",
+            "description": "External DVD Drive, USB 3.0 Portable CD/DVD +/-RW Drive/DVD Player for Laptop CD ROM Burner Compatible with Laptop Desktop PC Windows",
+            "currency": "$",
+            "price": 22,
+            "priceCents": 99,
+            "previousPrice": "",
+            "image": "dvdDrive.png",
+            "image02": "starsFour.png",
+            "amount": 1456
+        },
+        {
+            "id": "6",
+            "description": "Samsung 870 EVO SATA III SSD 1TB 2.5” Internal Solid State Hard Drive, Upgrade PC or Laptop Memory and Storage for IT Pros and Creators",
+            "currency": "$",
+            "price": 114,
+            "priceCents": 99,
+            "previousPrice": "$169.99",
+            "image": "samsungSata.png"
+        },
+        {
+            "id": "7",
+            "description": "WD 5TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0050BBK-WESN",
+            "currency": "$",
+            "price": 104,
+            "priceCents": 99,
+            "previousPrice": "$129.99",
+            "image": "hardDriveHDD.png",
+            "image02": "starsFour.png",
+            "amount": 683
+        },
+        {
+            "id": "8",
+            "description": "AMD Ryzen 7 5800X 8-core, 16-Thread Unlocked Desktop Processor",
+            "currency": "$",
+            "price": 349,
+            "priceCents": 98,
+            "previousPrice": "$449.00",
+            "image": "amdRyzen7.png",
+            "image02": "starsFive.png",
+            "amount": 822
+        },
+        {
+            "id": "9",
+            "description": "SanDisk 1TB Extreme Portable SSD - Up to 1050MB/s - USB-C, USB 3.2 Gen 2 - External Solid State Drive - SDSSDE61-1T00-G25",
+            "currency": "$",
+            "price": 134,
+            "priceCents": "00",
+            "previousPrice": "$249.99",
+            "image": "sanDiskSsd.png",
+            "image02": "starsFour.png",
+            "amount": 431
+        },
+        {
+            "id": "10",
+            "description": "Power Supply 850W 80+ Gold, Fully Modular PC Power Supply with RGB Light and Quiet Cooling Fan, Compact Gaming Computer Power",
+            "currency": "$",
+            "price": 99,
+            "priceCents": 99,
+            "previousPrice": "",
+            "image": "powerSupply.png",
+            "image02": "starsFive.png",
+            "amount": 7623
+        },
+        {
+            "id": "11",
+            "description": "ANTMINER S9j Bitcoin Miner, 14.5TH/S BTC @.098 J/GH Miner Machine Most Efficient Bitcoin Miner Machine",
+            "currency": "$",
+            "price": 842,
+            "priceCents": 72,
+            "previousPrice": "$936.99",
+            "image": "antMiner.png"
+        },
+        {
+            "id": "12",
+            "description": "Seagate BarraCuda 2TB Internal Hard Drive HDD - 3.5 Inch SATA 6Gb/s 7200 RPM 256MB Cache 3.5-Inch - Frustration Free Packaging",
+            "currency": "$",
+            "price": 46,
+            "priceCents": 99,
+            "previousPrice": "$58.99",
+            "image": "seagateHardDrive.png",
+            "image02": "starsFive.png",
+            "amount": 3217
+        }
+    ]
+}
