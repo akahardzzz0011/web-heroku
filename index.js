@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 const bodyParser = require('body-parser')
 const multer = require('multer')
 const cors = require('cors')
@@ -27,6 +27,7 @@ const upload = multer({ storage: storage })
 app.use('/products', products)
 app.use('/users', users)
 app.use('/invoices', invoices)
+
 app.use(express.static('reactAppBuild'))
 
 app.get('/file', (req, res) => {
